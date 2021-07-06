@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="title_search">Pesquisa</string>
+    <string name="title_favorites">Favoritos</string>
+    <string name="title_settings">Configuração</string>
+    <string name="search">Buscar</string>
+    <string name="settings_language">Idioma</string>
+    <string name="settings_language_pt">Português</string>
+    <string name="settings_language_eng">Inglês</string>
+    <string name="save">Salvar</string>
+    <string name="settings_tempunit">Unidade de Temperatura</string>
+    <string name="wind">wind</string>
+    <string name="clouds">nuvens</string>
+    <string name="hpa">hpa</string>
+</resources>
